@@ -1,0 +1,5 @@
+00 badfinish
+01 holes
+02 roughness
+03 markup
+04 pass
